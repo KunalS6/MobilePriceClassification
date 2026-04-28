@@ -1,5 +1,12 @@
 seaborn
 pandas
 numpy
+ipykernel
+matplotlib
+plotly
+kaleido
+scikit-learn
+xgboost
 
--e .
+
+#-e .
