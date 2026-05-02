@@ -7,6 +7,6 @@ plotly
 kaleido
 scikit-learn
 xgboost
-
+dill
 
 #-e .
